@@ -1,0 +1,10 @@
+C:\Users\UNEEB\source\repos\loading form\loading form\bin\Debug\loading form.exe.config
+C:\Users\UNEEB\source\repos\loading form\loading form\bin\Debug\loading form.exe
+C:\Users\UNEEB\source\repos\loading form\loading form\bin\Debug\loading form.pdb
+C:\Users\UNEEB\source\repos\loading form\loading form\obj\Debug\loading form.csproj.AssemblyReference.cache
+C:\Users\UNEEB\source\repos\loading form\loading form\obj\Debug\loading_form.Form1.resources
+C:\Users\UNEEB\source\repos\loading form\loading form\obj\Debug\loading_form.Properties.Resources.resources
+C:\Users\UNEEB\source\repos\loading form\loading form\obj\Debug\loading form.csproj.GenerateResource.cache
+C:\Users\UNEEB\source\repos\loading form\loading form\obj\Debug\loading form.csproj.CoreCompileInputs.cache
+C:\Users\UNEEB\source\repos\loading form\loading form\obj\Debug\loading form.exe
+C:\Users\UNEEB\source\repos\loading form\loading form\obj\Debug\loading form.pdb
